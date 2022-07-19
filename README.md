@@ -20,6 +20,7 @@ In order to reproduce "Combined" columns in each table, please run main_combined
 "\CIC2019\4340\C1\code\visualization\main_combined.m" reproduces the (2) Paint Samples #1 for combined ligting.
 "\CIC2019\4340\C2\code\visualization\main_combined.m" reproduces the (3) Paint Samples #2 for combined ligting. 
 
+
 In these scripts outputs, the Table 1's "raw-RGB", "white-balanced raw-RGB", "colorimetric image state (linear)", "colorimetric image state (non-linear)", and "sRGB" are indicated as "raw," "perfect wb-raw", "only linear pwb", "pwb stg5", and "pwb st11" respectively. 
 
 [1] Karaimer H.C., Brown M.S. (2019) "Beyond raw-RGB and sRGB: Advocating Access to a Colorimetric Image State", Color and Imaging Conference (CIC`19), Oct 2019.
